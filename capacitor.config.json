@@ -1,0 +1,12 @@
+{
+  "appId": "com.podometrobs.app",
+  "appName": "Podómetro B.S",
+  "webDir": "www",
+  "backgroundColor": "#1c1013",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
